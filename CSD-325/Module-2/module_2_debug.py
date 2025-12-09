@@ -18,7 +18,7 @@ def square(number):
 if __name__ == "__main__":
     try:
         # Get user input
-        value = float((input("Enter a number: "))
+        value = float(input("Enter a number: "))
         print("Debug: Function returned:", result)
 
         # Call the function and display the result
@@ -29,3 +29,4 @@ if __name__ == "__main__":
         print("Invalid input. Please enter a numeric value.")
     except TypeError as e:
         print(e)
+
