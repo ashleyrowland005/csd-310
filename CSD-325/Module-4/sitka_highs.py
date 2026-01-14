@@ -1,3 +1,7 @@
+#Ashley Rowland
+#1-14-26
+#CSD325-Sitka Weather
+
 import csv
 from datetime import datetime
 
