@@ -1,3 +1,7 @@
+#Ashley Rowland
+#1-14-26
+#CSD325/Sitka Weather
+
 from datetime import datetime
 import matplotlib.pyplot as plt
 import csv
@@ -71,3 +75,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
